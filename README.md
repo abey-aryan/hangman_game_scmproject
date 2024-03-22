@@ -39,3 +39,4 @@ The Hangman game allows players to guess a word by selecting letters from the al
 ## Contributors
 
 - [Jivansh](https://github.com/jivansh0)
+- [Aryan](https://github.com/abey-aryan)
