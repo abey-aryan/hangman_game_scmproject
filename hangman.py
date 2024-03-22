@@ -15,7 +15,7 @@ class HangmanGame:
             "Sports": ["football", "basketball", "tennis", "soccer", "volleyball", "swimming"],
             "Vegetables": ["carrot", "potato", "tomato", "cucumber", "lettuce", "broccoli"],
             "Planets": ["mercury", "venus", "mars", "jupiter", "saturn", "neptune"],
-            "Languages": ["python", "java", "javascript", "c++", "ruby", "swift"],
+            "Languages": ["python", "java", "javascript", "ruby", "swift"],
             "Transportation": ["car", "train", "airplane", "bicycle", "boat", "helicopter"],
         }
 
